@@ -1,0 +1,8 @@
+{
+  "Browser": "chrome",
+  "URL": "https://www.saucedemo.com",
+  "UsernameText": "standard_user",
+  "PasswordText": "secret_sauce",
+  "KeyName": "ENTER",
+  "ProductText": "Products"
+}
